@@ -1,7 +1,15 @@
 ---
-title: "Stop building your data platform in a single storage resource"
+title: "Rethinking Data Platforms: The Limits of Single Storage Architecture"
 date: 2025-02-13
+excerpt: "Relying on one storage account may seem simple, but it increases risk and cost. Learn how a multi-layered approach improves efficiency and security."
+tags:
+- Data Platform
+- Architecture
+- Cost Cutting
+image: /assets/graphics/2025-02-18-stop-building-dataplatform-in-single-resource/thumbnail-medallion-eggs-in-broken-basket.png
+pin: false
 ---
+
 Every data platform I’ve worked on has always been built in a single storage resource. I always wondered, why put all your eggs in a single storage basket? While it may seem simpler - less infrastructure to manage and easier acces - the lack of separation can make your storage a mammoth. Any changes apply to all your data, sacrificing flexibility, cost control, and management.
 
 This article reference architecture is based on Azure with four distinct data layers, each serving a specific purpose. A raw (or also called source) layer, which is where all data from the sources is copied to as is with no transformations, as close to the source representation as possible. And followed by a medallion architecture: Bronze, Silver, and Gold.
