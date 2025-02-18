@@ -6,7 +6,7 @@ icon: fas fa-fw fa-microphone
 
 ## 2025
 
-### Multi-domain data platforms
+### Office takeover: Multi-domain data platforms
 
 ![data-platforms](/assets/graphics/speaking/failed.png){: .w-50 .right .shadow .rounded-10}
 
@@ -16,7 +16,7 @@ I gave a deep-dive walkthrough on setting up a multi-workspace Databricks enviro
 
 ## 2024
 
-### DevContainers: the ideal team development environment 
+### Haven dagen: DevContainers, the ideal team development environment 
 
 ![devcontainers](/assets/graphics/speaking/2024-12-02-krijn-at-HbR-presenting-devcontainers.jpg){: .w-50 .left .shadow .rounded-10}
 Showcasing DevContainers to the department; how to create a simple, reproducible development environment. I also covered the use of code quality tools, both locally and in the CI/CD pipeline, to ensure consistent quality across the codebase. My focus was on explaining how these tools could help safeguard and maintain standards during development.<br><br><br>
