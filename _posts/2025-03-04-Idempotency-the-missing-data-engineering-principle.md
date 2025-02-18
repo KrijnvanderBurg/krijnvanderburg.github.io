@@ -1,6 +1,6 @@
 ---
 title: "Idempotency: the missing data engineering principle"
-date: 2099-01-01
+date: 2025-03-04
 excerpt: ""
 tags:
 - Data Engineering

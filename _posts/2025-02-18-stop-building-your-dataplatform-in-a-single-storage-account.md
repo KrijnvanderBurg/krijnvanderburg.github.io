@@ -1,6 +1,6 @@
 ---
 title: "Rethinking Data Platforms: The Limits of Single Storage Architecture"
-date: 2025-02-13
+date: 2025-02-18
 excerpt: "Data platforms built on a single storage account raise risk and cost. Learn how a multi-layered approach boosts efficiency and security."
 tags:
 - Data Platform
