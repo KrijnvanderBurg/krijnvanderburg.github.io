@@ -8,7 +8,7 @@ icon: fas fa-fw fa-microphone
 
 ### Multi-domain data platforms
 
-![data-platforms](/assets/graphics/speaking/2025-01-28-krijn-presenting-data-platforms.jpg){: .w-50 .right .shadow .rounded-10}
+![data-platforms](/assets/graphics/speaking/2099-01-01-Idempotency-the-missing-data-engineering-principle/failed.png){: .w-50 .right .shadow .rounded-10}
 
 I gave a deep-dive walkthrough on setting up a multi-workspace Databricks environment with centralized web authentication, focusing on secure access management. The main goal was to completely restrict public access across all workspaces.<br><br><br>
 
